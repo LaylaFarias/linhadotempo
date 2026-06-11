@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Memória ♡</title>
+  <link rel="stylesheet" href="pagina.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <div class="pg-bg-leaves" aria-hidden="true">
+    <span class="bg-leaf bl-1">🌿</span>
+    <span class="bg-leaf bl-2">🍃</span>
+    <span class="bg-leaf bl-3">🌱</span>
+    <span class="bg-leaf bl-4">🍃</span>
+  </div>
+
+  <div class="pg-wrapper">
+
+    <!-- Voltar -->
+    <a href="index.html" class="btn-voltar" aria-label="Voltar para a página principal">
+      ← Voltar
+    </a>
+
+    <!-- Cabeçalho da memória -->
+    <header class="pg-header">
+      <p class="pg-date" id="pg-date">—</p>
+      <h1 class="pg-title" id="pg-title">Carregando...</h1>
+      <div class="pg-divider">
+        <span></span><span class="diamond">◆</span><span></span>
+      </div>
+    </header>
+
+    <!-- Texto pessoal -->
+    <article class="pg-texto" id="pg-texto">
+      <!-- injetado por pagina.js -->
+    </article>
+
+    <!-- Botão revelar poesia -->
+    <div class="pg-poetry-wrap">
+      <button class="btn-poesia" id="btn-poesia" aria-expanded="false">
+        <span class="btn-poesia-icon">🌸</span>
+        Revelar a poesia
+      </button>
+
+      <div class="poesia-box" id="poesia-box" hidden>
+        <div class="poesia-header">
+          <span class="poesia-ornament">✦</span>
+          <span>Uma poesia para você</span>
+          <span class="poesia-ornament">✦</span>
+        </div>
+        <pre class="poesia-texto" id="poesia-texto"></pre>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Carrega os dados dos cards -->
+  <script src="script.js"></script>
+  <script src="pagina.js"></script>
+</body>
+</html>
