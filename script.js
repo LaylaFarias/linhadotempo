@@ -18,34 +18,28 @@ const cards = [
 
     // TEXTO exibido na página interna
     texto: `
-      <p>Lembro de cada detalhe daquele dia como se fosse ontem.
-      A luz da tarde pintava tudo de dourado, e quando te vi,
-      percebi que algumas coisas na vida simplesmente acontecem
-      para nos lembrar do quanto o mundo pode ser bonito.</p>
-
-      <p>Não havia nada de ordinário naquele momento — havia
-      apenas você, e a certeza suave de que queria te conhecer
-      para sempre.</p>
-
-      <p>Guardo esse dia como um tesouro que nenhuma distância
-      pode apagar. Foi o começo da nossa história mais bonita.</p>
+      <p>
+foi nossa primeira vez conversando e, modéstia a parte, eu que puxei assunto. sendo honesta, sabemos que a gente não tinha intenção alguma naquela conversa, acho que nem sabíamos que iríamos virar amigas (e com toda a sorte do mundo, namoradas), mas tenho certeza que foi a melhor coisa que fiz. começar uma conversa descontraída, que se desenrolou e se transformou em algo muito maior do que poderíamos imaginar. 
+desde então, sou grata diariamente por te conhecer, desde aquele dia que pedi pra maria clara te chamar e você nem ouviu até hoje, quando sou capaz de dizer que te amo cada dia mais. 
+obrigada por tudo que proporcionou a mim desde o dia 07/02/2026. eu te amo mais a cada segundo que se passa.</p>
     `,
 
     // POESIA exibida ao clicar no botão
     poesia: `
-      No instante em que te vi, o mundo
-      respirou diferente —
-      como campo após a chuva,
-      como manhã que ainda não sabe
-      o quanto será luminosa.
+quero me apaixonar
+amar perdidamente alguém 
+dedicar poesias
+quero ser de alguém 
+ter alguém.
+um amor de filme
+aqueles de sessão da tarde
+onde cada encontro parece um acidente
+mas é planejado pelo destino.
+quero um amor que mexa com a minha cabeça 
+que me tire do sério
+que me deixe numa corda bamba
+pronta para cair nos braços de alguém.
 
-      Havia em ti algo de jardim secreto,
-      de carta não enviada,
-      de promessa que se cumpre
-      sem que se precise de palavras.
-
-      E eu, que não acreditava em coincidências,
-      passei a acreditar em você.
     `,
   },
 
@@ -59,32 +53,38 @@ const cards = [
     featured: false,
 
     texto: `
-      <p>Três meses pareciam poucos para contar tanta coisa —
-      mas com você, o tempo sempre soube se esticar nos momentos
-      certos e voar quando estávamos felizes.</p>
-
-      <p>Aprendi nesse período que amor de verdade não precisa
-      de gestos enormes. Às vezes é uma mensagem no meio do dia,
-      um riso compartilhado, um silêncio que não pesa.</p>
-
-      <p>Três meses. Mas valeram uma vida de saudade boa.</p>
+      <p>
+o bendito dia que fui fazer trança na sua casa. bom, se eu fosse definir você como uma hora, lugar e pessoa (você ainda não é nerd o suficiente para entender essa ref), tenho certeza que te definiria como essa hora: quando nós duas estávamos super nervosas, você louca pra me beijar, eu louca para deixar você me beijar.
+esse dia foi o nosso primeiro marco e eu tenho certeza que vou me lembrar dele por anos e anos e contar cada detalhe pra quem surgir na nossa vida e com certeza será citado nos meus votos de casamento. bom, além do nosso primeiro beijo (selinho, mas você entendeu o que eu quis dizer), foi a primeira vez que você me hipnotizou com seu dons musicais (apesar de eu até gostar qnd vc toca o pandeiro também), a primeira vez que a gente se viu no meio da chuva, a primeira vez que a gente deitou abraçadinha e eu jurei que poderia morar naquele momento, a primeira vez que você quebrou minha marra de loba e bem, a primeira vez que percebi o quão apaixonada eu tava. 
+por mim, todos os dias seriam 28 de fevereiro de 2026 (mentira, seriam 24 de maio, mas esse é so um detalhe um pouco mais para a frente do site)</p>
     `,
 
     poesia: `
-      Três meses são noventa amanheceres
-      em que pensei em ti antes de qualquer coisa —
-      antes do café, antes do sol,
-      antes mesmo de lembrar
-      quem sou sem você.
-
-      São noventa noites
-      em que a última imagem guardada
-      foi o teu sorriso,
-      esse que não se explica
-      e não se esquece.
-
-      Noventa vezes amei.
-      Noventa vezes foi pouco.
+      te olho com tanta intensidade
+esperando que meus olhos sejam capazes 
+de transmitir o que a boca não sabe dizer 
+o que nenhum dicionário saberia explicar.
+"o que você tanto olha?"
+você 
+é só o que consigo formular
+gastaria tempo demais para explicar cada detalhe seu que admiro
+é melhor usar o tempo com você 
+mesmo em silêncio 
+só eu e você 
+a gente pode esquecer do mundo lá fora
+deixa a chuva chegar
+o trovão estremecer
+eu me aqueço com você 
+me esqueço contigo.
+por mim, seu nome ocuparia um lugar no dicionário 
+seria um sinônimo para tudo que é bom:
+beleza
+graça 
+formosa
+perfeição 
+mas de um jeito mais intenso 
+de um jeito seu.
+é muito para se traduzir em um olhar?
     `,
   },
 
