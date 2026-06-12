@@ -58,7 +58,7 @@
     if (aberta) {
       poesiaBox.hidden = false;
       btnPoesia.setAttribute("aria-expanded", "true");
-      btnPoesia.innerHTML = `<span class="btn-poesia-icon">🌸</span> Ocultar a poesia`;
+      btnPoesia.innerHTML = `Ocultar a poesia`;
       /* Rola suavemente até a poesia */
       setTimeout(() => {
         poesiaBox.scrollIntoView({ behavior: "smooth", block: "nearest" });
@@ -66,7 +66,7 @@
     } else {
       poesiaBox.hidden = true;
       btnPoesia.setAttribute("aria-expanded", "false");
-      btnPoesia.innerHTML = `<span class="btn-poesia-icon">🌸</span> Revelar a poesia`;
+      btnPoesia.innerHTML = `Revelar a poesia`;
     }
   });
 })();

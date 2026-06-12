@@ -106,22 +106,29 @@ tenho orgulho de poder oficialmente olhar bem no seu olho e dizer que te amo, a 
     `,
 
     poesia: `
-      Um ano cabem muitas coisas:
-      risos que ainda ecoam,
-      brigas que nos ensinaram a ceder,
-      abraços que esquecemos de contar
-      porque eram muitos.
-
-      Cabem noites longas de conversa
-      e manhãs preguiçosas de silêncio.
-      Cabe o teu nome dito
-      de todas as formas que conheço —
-      com saudade, com ternura,
-      com admiração, com alívio.
-
-      Um ano. E eu escolheria de novo
-      cada um dos dias
-      que te trouxeram até mim.
+naquela noite 
+com aquela ligação
+beirando o fim
+palavras chegam
+na ponta da língua 
+ousando querer sair
+o dedo é mais ágil 
+desliga.
+me deixa só
+no silêncio 
+saboreando as palavras 
+na ponta da língua 
+"eu..."
+deixa para lá 
+tenho medo demais.
+ainda bem que desliguei.
+mas 
+que péssima ideia 
+dizer por telefone,
+na ponta da língua
+só devem escapar 
+quando teus olhos
+encontrarem os meus.
     `,
   },
 
@@ -144,21 +151,17 @@ com aquela touca ou não, você é o meu maior presente, como alguém que veio c
     `,
 
     poesia: `
-      Levamos malas pequenas
-      e voltamos com o coração mais cheio
-      do que imaginámos partir.
-
-      Aprendemos que o destino
-      nunca foi o lugar no mapa —
-      foi o momento em que olhamos
-      para o mesmo horizonte
-      e quisemos o mesmo.
-
-      Carrego em mim cada estrada percorrida contigo,
-      cada desvio que virou aventura,
-      cada chegada que pareceu lar.
-
-      Com você, qualquer lugar chega a ser casa.
+sou desacostumada com isso
+com a promessa
+com o fim de tarde tranquilo
+com a noite de sono tranquila
+com os dedos entrelaçados 
+com o beijo na testa
+com o toque quente.
+quero mais
+tudo com você 
+aquele abraço que mata saudade
+aquele beijo que embaça os problemas
     `,
   },
 
@@ -172,43 +175,54 @@ com aquela touca ou não, você é o meu maior presente, como alguém que veio c
     featured: false,
 
     texto: `
-      <p>Um ano. Parece que foi ontem e parece que já te conheço
-      há uma vida inteira — e talvez seja exatamente isso
-      que acontece quando encontramos quem nos faz bem de verdade.</p>
+      <p>O dia que vc mais me surpreendeu.  </p>
+      <p> Eu já tinha imaginado meu pedido de namoro algumas poucas vezes, algumas vezes a pessoa misteriosa usava palavras para se declarar,
+      em outras, a pessoa misteriosa so me olhava como se me namorar fosse a coisa mais urgente do mundo... com o tempo, minha imaginação de um pedido perfeito
+      ganhou um rosto: o seu. 
+      eu imaginava algum cenário, mas só o que tinhamos já me surpreendia, então, quando você assumiu ter comprado o anel (e depois me fez acreditar que realmente era uma pulseira) 
+      eu percebi que nada do que eu tinha imaginado ia chegar aos pés do que você faria por mim. 
+      eu ainda lembro de cada detalhe daquele, da cor da roupa que a gente usava, das cenas de The Last of Us que passava enquanto você enrolava para fazer o pedido,
+      de você fingindo não saber o porquê suas mãos tavam tremendo, de você tocando o violão bem no comecinho da tarde (me dando aquela sensação inexplicável) 
+      das brincadeiras quando você disse que fez um quadro pra mim. <p>
+      
+      <p> quando você fez o pedido, tocava "Como eu quero" do Kid Abelha e eu tava de costas, tentando entender o porquê dde tanto suspense para um quadro,
+      quando eu recebi e olhei, eu já comecei a chorar, como sempre faço, mas você ainda insistiu "olha o quadro direito" e eu comecei a ler poesia mais linda do mundo, o que foi mais que o suficiente para me fazer chorar ainda mais
+      e, meudeus, você ainda teve a audácia de se ajoelhar e abrir aquela caixinha com nossos anéis. foi uma tarde perfeita, sem defeito algum(exceto o meu rímel escorrido de tanto chorar) <p>
 
-      <p>Cresci com você. Aprendi a ser mais paciente, mais presente,
-      mais grato pelas pequenas coisas. Você me ensinou isso
-      sem nenhuma aula, só existindo.</p>
-
-      <p>Que cada próximo ano seja ainda mais lindo do que este.
-      Que a gente continue escolhendo um ao outro,
-      todo dia, como se fosse a primeira vez.</p>
+      <p> naquele dia eu te disse sim, mas eu te diria sim todos os dias, sem pensar duas vezes. e digo mais, por mim, todos os dias seriam 24 de maio.<p> 
     `,
 
     poesia: `
-      Um ano cabem muitas coisas:
-      risos que ainda ecoam,
-      brigas que nos ensinaram a ceder,
-      abraços que esquecemos de contar
-      porque eram muitos.
-
-      Cabem noites longas de conversa
-      e manhãs preguiçosas de silêncio.
-      Cabe o teu nome dito
-      de todas as formas que conheço —
-      com saudade, com ternura,
-      com admiração, com alívio.
-
-      Um ano. E eu escolheria de novo
-      cada um dos dias
-      que te trouxeram até mim.
+eu ainda lembro de tudo
+de cada detalhe
+mesmo que tudo seja limitado 
+mesmo que pareça um imenso desafio.
+quero que chegue o amanhã 
+para então, chegar depois de amanhã
+e aí, eu te ver de novo.
+eu ainda lembro daqueles detalhes
+do travesseiro diferente
+da maciez da cama
+da cor do violão 
+do cheiro de creme
+do calor do abraço 
+do som da chuva
+do caminho que as mãos traçaram.
+parece que foi ontem
+que a paixão explodiu no meu peito
+gostaria que fosse hoje
+que a saudade morre aqui dentro
+sinto que vai durar uma década 
+até a próxima vez de te ver
+gostaria que fosse eterno
+para que nunca te perdesse de vista.
     `,
   },
 
   /* ─── CARD 6 ─── */
   {
     id: "17 de março, 2026",
-    date: "12 de Maio, 2024",
+    date: "12 de junho, 2026",
     title: "Extras",
     snippet: "talvez um pouco desnecessários",
     icon: "∞",
