@@ -88,48 +88,7 @@ de um jeito seu.
     `,
   },
 
-  /* ─── CARD 3 ─── */
-  {
-    id: "touca",
-    date: "8 de abril, 2026",
-    title: "Dia da touca",
-    snippet: "O dia que chorei por causa de uma touca(micoso demais)",
-    icon: "☼",
-    featured: false,
-
-    texto: `
-      <p>Viajar com alguém revela quem essa pessoa realmente é —
-      e você me surpreendeu em cada parada, em cada mapa aberto,
-      em cada refeição improvisada que virou memória afetiva.</p>
-
-      <p>O que eu amei não foi o lugar. Foi o jeito como você
-      olhava para tudo com olhos de quem quer guardar.</p>
-
-      <p>Posso não me lembrar de cada rua, mas jamais vou esquecer
-      a sensação de estar perdido no mundo e completamente
-      em casa ao seu lado.</p>
-    `,
-
-    poesia: `
-      Levamos malas pequenas
-      e voltamos com o coração mais cheio
-      do que imaginámos partir.
-
-      Aprendemos que o destino
-      nunca foi o lugar no mapa —
-      foi o momento em que olhamos
-      para o mesmo horizonte
-      e quisemos o mesmo.
-
-      Carrego em mim cada estrada percorrida contigo,
-      cada desvio que virou aventura,
-      cada chegada que pareceu lar.
-
-      Com você, qualquer lugar chega a ser casa.
-    `,
-  },
-
-  /* ─── CARD 4 ─── */
+    /* ─── CARD 4 ─── */
   {
     id: "eu-te-amo",
     date: "17 de março, 2026",
@@ -139,17 +98,11 @@ de um jeito seu.
     featured: false,
 
     texto: `
-      <p>Um ano. Parece que foi ontem e parece que já te conheço
-      há uma vida inteira — e talvez seja exatamente isso
-      que acontece quando encontramos quem nos faz bem de verdade.</p>
+      <p>17 de março
 
-      <p>Cresci com você. Aprendi a ser mais paciente, mais presente,
-      mais grato pelas pequenas coisas. Você me ensinou isso
-      sem nenhuma aula, só existindo.</p>
-
-      <p>Que cada próximo ano seja ainda mais lindo do que este.
-      Que a gente continue escolhendo um ao outro,
-      todo dia, como se fosse a primeira vez.</p>
+dia que finalmente tivemos coragem de admitir os verdadeiros sentimentos, antes disso, eu tava extremamente nervosa e sonhando com esse momento. confesso que fiz até a maria clara te induzir a falar a verdade para ela, para eu poder sonhar com mais realidade sabekk 
+enfim, eu tinha imaginado esse momentos bem antes, naquela ligação que a gente fez, no dia do meu aniversário e até mesmo em momentos mais descontraídos em que você nem imagina o tamanho da vontade que eu tava pra te dizer oq eu sentia. apesar de hoje em dia ter se tornado muito mais fácil de te dizer, ainda sinto o nervosismo da primeira vez, aquele frio bom na barriga e o sorriso maior do que consigo segurar.
+tenho orgulho de poder oficialmente olhar bem no seu olho e dizer que te amo, a verdade mais sincera e bonita do fundo do meu coração. eu te amo demais!</p>
     `,
 
     poesia: `
@@ -171,6 +124,44 @@ de um jeito seu.
       que te trouxeram até mim.
     `,
   },
+
+  /* ─── CARD 3 ─── */
+  {
+    id: "touca",
+    date: "8 de abril, 2026",
+    title: "Dia da touca",
+    snippet: "O dia que chorei por causa de uma touca(micoso demais)",
+    icon: "☼",
+    featured: false,
+
+    texto: `
+      <p>8 de abril
+
+ok, admito que esse é o texto mais bobinho que to fazendo, porque ficar aqui explicando o porquê de sempre chorar com as suas demonstrações de afeto talvez seja meio desnecessário. 
+bom, 8 de abril foi a primeira vez que você me fez chorar copiosamente por causa de algo bobo, como uma touca de cetim, mas sei lá, por quão bobo pareça, sempre vou enxergar um significado muito maior por trás. eu estava a semana reclamando de algo (daquela touca velha com o elástico mais morto que calcinha de vó) e você além de ouvir meus desabafos desnecessários sobre aquela coisa, você ainda me ofereceu a solução, como se não fosse nada. eai a primeira vez que eu usei, não teve jeito, eu me desmanchei em lágrimas.
+chorei porque sla, acho que nunca tive ninguém como você na minha vida, que fosse tanto e que fosse só para mim, alguém que eu pudesse dizer que tava chorando por causa de algo tão bobinho e continuasse me ouvindo como se isso fosse normal, alguém que prestasse atenção em detalhes e se mostrasse presente.
+com aquela touca ou não, você é o meu maior presente, como alguém que veio como modo de recompensa para tudo que tinha dado errado antes.</p>
+    `,
+
+    poesia: `
+      Levamos malas pequenas
+      e voltamos com o coração mais cheio
+      do que imaginámos partir.
+
+      Aprendemos que o destino
+      nunca foi o lugar no mapa —
+      foi o momento em que olhamos
+      para o mesmo horizonte
+      e quisemos o mesmo.
+
+      Carrego em mim cada estrada percorrida contigo,
+      cada desvio que virou aventura,
+      cada chegada que pareceu lar.
+
+      Com você, qualquer lugar chega a ser casa.
+    `,
+  },
+
     /* ─── CARD 5 ─── */
   {
      id: "pedido",
